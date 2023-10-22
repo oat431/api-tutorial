@@ -2,6 +2,15 @@
 
 just and example of how to implement API using python and flask
 
+## Chapter list
+
+1. Chapter 1: Project Setup
+2. Chapter 2: Basic API
+3. Chapter 3: Playing with Database
+4. Chapter 4: CORS
+5. Chapter 5: Testing
+6. Chapter 6: Todo List Project
+
 ## Project Pre-requisites
 
 - install python3
